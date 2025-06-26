@@ -38,3 +38,4 @@ yarn-error.*
 
 # Arquivo de configuração do Firebase com chaves secretas
 src/config/firebase.js
+.env
